@@ -160,21 +160,22 @@ li a:hover:not(.active) {
   color: #5cf5be;
   text-decoration: none;
 }
+
 /* nav right side */
 .active {
   background-color: #5cf5be;
   color: black;
   text-decoration: none;
 }
-li a:hover(.noU){
+
+li a:hover(.noU) {
   text-decoration: none;
 }
 
 /* body styles */
-.q1{
+.q1 {
   border-color: black;
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  
 }
